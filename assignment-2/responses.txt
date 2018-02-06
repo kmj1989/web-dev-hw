@@ -1,0 +1,22 @@
+◾Briefly describe one way how data travels on the internet.
+
+Data travels on the internet through packets.
+Large files are sent information by breaking into many packets.
+
+
+◾What is the relationship between IP address and the DNS?
+
+When users want to access URL, IP address is always required.
+IP address is always composed of many numbers,
+so DNS change from URL that users searched to the IP address instead of users.
+Thus, DNS helps to find IP address that users want to access and connect
+easily.
+
+◾What is a cookie?
+
+The cookie means very small files that are on users' computers.
+
+
+◾List the the three basic parts of a URL.
+
+protocol, domain name, path
