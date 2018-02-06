@@ -7,4 +7,4 @@
 * I followed the instructions for this assignment. I could understand the instructions easily. It looked simple and I can complete with no big trouble. Inserting image is little confused for me, but I can solve myself easily. Thus, I could complete assignment-2 successfully. Although it is just readme.md, I could know how to handle Atom program.
 
 
-![image](./images/image.jpg)
+![image](https://github.com/kmj1989/web-dev-hw/blob/master/assignment-2/images/image.JPG)
