@@ -11,6 +11,6 @@ I can access a lot of forms through browsing the web. Especially, I always need 
 
 **Summarize your work cycle for this assignment. Review this page if you need some ideas.**
 
-This assignment sometimes make me confused. I spent for a long time to do this homework. Making options and choices was very amazing, and easier than I think. Also, making button was interesting and easy. However, when I make the table, it was little confused. I didn't know that I should add ```<th></th>``` for the first space. Because of this, I really felt difficult. I searched a lot and read again and again. Anyway, my results are successful, and I feel really nice for this assignment. 
+This assignment sometimes make me confused. I spent for a long time to do this homework. Making options and choices was very amazing, and easier than I think. Also, making button was interesting and easy. However, when I make the table, it was little confused. I didn't know that I should add ```<th></th>``` for the first space. Because of this, I really felt difficult. I searched a lot and read again and again. Anyway, my results are successful, and I feel really nice for this assignment.
 
 ![image](./images/screenshot.PNG)
