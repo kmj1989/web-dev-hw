@@ -1,0 +1,34 @@
+body{
+  background-color: rgb(158,255,184);
+  margin: auto;
+  display: block;
+  height:800px;
+  width:800px;
+  align: center;
+}
+
+h1{
+  text-align: center;
+
+  font-size: 50pt;
+  background-color: rgb(212,108,231);
+  color: powderblue;
+
+}
+
+img{
+  display: center;
+}
+
+.image{
+  text-align: center;
+
+}
+
+p{ text-align: center;
+  background-color: rgb(137,176,225);
+  font-size: 30px;
+  color: powderblue;
+  text-decoration: underline;
+
+}
