@@ -1,4 +1,4 @@
-## **Assignment 5 Readme.md**
+## **Assignment 6 Readme.md**
 ### **_Min Joon Kwak_**
 
 **Briefly share your design process for this assignment. What graphic or graphics did you choose, from what decade?
