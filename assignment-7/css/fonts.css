@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Lobster');
+
+@font-face{
+  font-family:'Lobster', cursive;
+  src: url('./fonts/Lobster-Regular.ttf') format('trutype');
+  font-weight:normal;
+  font-style:normal;
+}
+
+h1{text-align: center;
+  color:white;
+  font-family:'Lobster', cursive;
+  font-size:50pt;
+  font-style:normal;
+  font-weight:600;
+
+}
+
+h2{text-align: center;
+  color:white;
+  font-family:'Lobster', cursive;
+  font-size:30pt;
+  font-style:normal;
+  font-weight:normal;
+
+}
+
+h3{text-align: center;
+  color:white;
+  font-family:'Lobster', cursive;
+  font-size:20pt;
+  font-style:normal;
+  font-weight:300;
+
+}
+@font-face{
+  font-family:'Comfortaa', cursive;
+  src: url('./fonts/Comfortaa-Regular.ttf') format('trutype');
+  font-weight:normal;
+  font-style:normal;
+}
+
+p{text-align: center;
+  color:black;
+  font-family:'Comfortaa', cursive;
+  font-size:15pt;
+  font-style:normal;
+  font-weight:300;
+  letter-spacing:1px;
+
+}
